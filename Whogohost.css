@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(0, 31, 111, 255);
+    font-family: Georgia, serif;
+    fo
+}
+img{
+    width: 300px;
+
+    
+}
+#wee{
+    margin-left: 250px;
+    width: fit-content;
+    background: red;
+}
+#yes{
+    margin-right: 130px;
+}
+#meat{
+    background-color: white;
+    width: 300px;
+    height: 550px;
+    margin-left: 620px;
+    padding: 20px;
+    /* margin-bottom: 500px; */
+}
+#cow{
+    margin-left: 620px;
+}
+#fee{
+    margin-right: 153px;
+}
+#foe{
+    margin-right: 190px;
+    
+}
+#woe{
+    background: rgb(52, 52, 231);
+    color: white;
+    border: none;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-size: larger;
+}
+#woo{
+    background: rgb(52, 52, 231);
+    color: white;
+    border: none;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-size: larger;
+}
+
+form{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#man{
+    width: 300px;
+    height: 40px;
+    margin: 10px 0px 0px 0px;
+    border-radius: 4px;
+    border: 1px solid rgb(162, 160, 160);
+
+}
+#mai{
+    width: 300px;
+    height: 40px;
+    margin: 10px 0px 0px 0px;
+    border-radius: 4px;
+    border: 1px solid rgb(162, 160, 160);
+    
+h3{
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+/* /* a{
+    text-decoration: none;
+
+} */
+p{
+    /* text-align: justify; */
+}
+/* div{ */
+    width: 500px;
+    
+}
+/* #yes{
+    font-size;
+} */ */
